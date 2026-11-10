@@ -1,7 +1,7 @@
 # Olá, eu sou o Artur 👋
 
 **Analista de Suporte de TI em transição para Dados / BI Júnior** · São Paulo, Brasil  
-Cursando Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul.
+Tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC São Caetano do Sul.
 
 Trabalho no suporte de TI de um grande ambiente corporativo da indústria automotiva, onde transformo dados operacionais do ServiceNow em indicadores no Power BI e automatizo relatórios recorrentes (Power Automate, n8n e Python). Meu objetivo é atuar com dados, indicadores e processos, perto do negócio.
 
