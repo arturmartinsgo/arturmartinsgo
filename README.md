@@ -19,7 +19,7 @@ Trabalho no suporte de TI de um grande ambiente corporativo da indústria automo
 |---|---|---|
 | [dashboard-field-support-powerbi](https://github.com/arturmartinsgo/dashboard-field-support-powerbi) | Dashboard de SLA e atendimento de service desk (dados sintéticos) | Power BI, DAX, Power Query |
 | [dashboard-vendas-choperia](https://github.com/arturmartinsgo/dashboard-vendas-choperia) | Vendas, margem, formas de pagamento e estoque de uma choperia fictícia | SQL, Power BI |
-| ETL com pandas *(em breve)* | Limpeza e validação de dados | Python, pandas |
+| [etl-pandas-tratamento-dados](https://github.com/arturmartinsgo/etl-pandas-tratamento-dados) | Limpeza, validação e relatório de qualidade de um inventário de TI fictício | Python, pandas, pytest |
 | [Projeto-Node-React](https://github.com/arturmartinsgo/Projeto-Node-React) | Aplicação fullstack com API e interface web | Node.js, React, MySQL |
 | [Projeto-.net](https://github.com/arturmartinsgo/Projeto-.net) | Controle de estoque para choperia artesanal | VB.NET, Access |
 | Mundoria (TCC) | Plataforma de turismo com geolocalização e geofencing, web + mobile | Java, APIs, SQL/NoSQL |
